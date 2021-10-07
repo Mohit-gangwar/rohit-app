@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rohit-app/static/css/main.01057971.chunk.css",
+    "main.js": "/rohit-app/static/js/main.097dec6a.chunk.js",
+    "main.js.map": "/rohit-app/static/js/main.097dec6a.chunk.js.map",
+    "runtime-main.js": "/rohit-app/static/js/runtime-main.0f68a188.js",
+    "runtime-main.js.map": "/rohit-app/static/js/runtime-main.0f68a188.js.map",
+    "static/css/2.8f5ff88e.chunk.css": "/rohit-app/static/css/2.8f5ff88e.chunk.css",
+    "static/js/2.6213656f.chunk.js": "/rohit-app/static/js/2.6213656f.chunk.js",
+    "static/js/2.6213656f.chunk.js.map": "/rohit-app/static/js/2.6213656f.chunk.js.map",
+    "index.html": "/rohit-app/index.html",
+    "static/css/2.8f5ff88e.chunk.css.map": "/rohit-app/static/css/2.8f5ff88e.chunk.css.map",
+    "static/css/main.01057971.chunk.css.map": "/rohit-app/static/css/main.01057971.chunk.css.map",
+    "static/js/2.6213656f.chunk.js.LICENSE.txt": "/rohit-app/static/js/2.6213656f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f68a188.js",
+    "static/css/2.8f5ff88e.chunk.css",
+    "static/js/2.6213656f.chunk.js",
+    "static/css/main.01057971.chunk.css",
+    "static/js/main.097dec6a.chunk.js"
+  ]
+}
